@@ -1,6 +1,6 @@
-# Olá, Mundo!
- Primeiro repositório do curso em vídeo do Git & GitHub
+# Olï¿½, Mundo!
+ Primeiro repositï¿½rio do curso em vï¿½deo do Git & GitHub
 
  Primeiro de muitos testes!!
 
- testando
+ testando novamente
