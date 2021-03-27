@@ -1,4 +1,4 @@
-# Ol�, Mundo!
- Primeiro reposit�rio do curso em v�deo do Git & GitHub
+# Olá Mundo!
+ Primeiro repositório do curso em vídeo do Git & GitHub.
 
- mais uma mudança pelo visual studio
+ Feito somente para testes!
